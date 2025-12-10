@@ -1,9 +1,9 @@
 # RSSI-indoor-positioning
-A lightweight indoor localization system using WiFi RSSI measurements, trilateration, and Kalman filtering for real-time tracking.
+A lightweight indoor positioning system using WiFi RSSI measurements, trilateration, and Kalman filtering for real-time tracking.
 Designed for research, prototyping, and educational use.
 
 # Research Motivation
-Indoor positioning is a challenging research problem due to multipath interference, signal decay, and environmental noise. This project explores signal-based localization using RSSI trilateration combined with predictive filtering. The goal is to understand the limitations of RSSI-based methods and explore techniques to improve accuracy, making it a starting point for future research in indoor navigation, IoT sensing, or wireless localization.
+Indoor positioning is a challenging research problem due to multipath interference, signal decay, and environmental noise. This project explores signal-based positioning using RSSI trilateration combined with predictive filtering. The goal is to understand the limitations of RSSI-based methods and explore techniques to improve accuracy, making it a starting point for future research in indoor navigation, IoT sensing, or wireless positioning.
 
 # Overview
 This project implements a real-time indoor positioning system (IPS) using:
