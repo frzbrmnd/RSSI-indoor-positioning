@@ -17,7 +17,7 @@ This project implements a real-time indoor positioning system (IPS) using:
 It is fully implemented in Python and runs on Linux systems that support the iw WiFi scanner.
 
 This repository demonstrates practical knowledge in:
-- Wireless localization
+- Wireless positioning
 - Geo-spatial data processing
 - Python scientific computing
 - Real-time system design
